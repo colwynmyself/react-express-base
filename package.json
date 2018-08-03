@@ -22,8 +22,8 @@
     "express-handlebars": "^3.0.0",
     "prop-types": "^15.5.9",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "spectacle": "^2.1.0",
+    "react-dom": "^16.0.1",
+    "spectacle": "^3.0.0",
     "uuid": "^3.0.1",
     "snyk": "^1.38.1"
   },
